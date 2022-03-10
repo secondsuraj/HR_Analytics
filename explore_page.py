@@ -11,3 +11,9 @@ def show_explore_page():
     """
     )
     st.write("")
+    st.write("")
+    st.write("")
+    st.title("Project Made By: ")
+    st.write("Name: SURAJ")
+    st.write("UID: 18BCS1827")
+    st.write("Section: 18BCS2Gr1")
